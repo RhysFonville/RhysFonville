@@ -1,5 +1,3 @@
 # RhysFonville
 
-<h3>Stats</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhysFonville&langs_count=8&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+I've essentially moved to gitlab so a lot of this is out-of-date.
